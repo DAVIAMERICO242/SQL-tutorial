@@ -1,2 +1,2 @@
 # SQL
-Remembering SQL
+In this topic I'm remembering me SQL usage one more time, I'm also showing it as what I name as SQL basics to intermediate. I'm going to explore from how its exportation works to subqueries. This topic regards SELECT, FROM, WHERE, GROUP BY and some stats measures and mightly some more stuff like that. 
